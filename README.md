@@ -1,5 +1,5 @@
 <h1 align="center"> Hola!, me llamo Frida :wave:  </h1>
-<h3 align="center"> Desarrolladora de software desde 2021 <h3>
+<h3 align="center"> Desarrolladora de software <h3>
 
 <h2> Tecnologias :computer: </h2>
 
